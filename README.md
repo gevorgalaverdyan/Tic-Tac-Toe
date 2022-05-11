@@ -1,1 +1,3 @@
-# Tic-Tac-Toe
+# Tic-Tac-Toe 
+# Languages: JS, CSS & HTML5
+# © All Rights Reserved - Gevorg Alverdyan.
